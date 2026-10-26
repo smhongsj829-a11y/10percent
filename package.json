@@ -1,0 +1,8 @@
+{
+  "name": "juppasento",
+  "version": "1.0.0",
+  "private": true,
+  "description": "10% ジュッパーセント — 여행객의 소중한 10%를 위한 서포터",
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
